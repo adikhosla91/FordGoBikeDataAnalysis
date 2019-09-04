@@ -1,4 +1,4 @@
-# Ford GoBike Exploratory and Explanotory Analysis
+# Ford GoBike Exploratory and Explanatory Analysis
 
 ## Packages Required
 * Numpy
