@@ -28,7 +28,7 @@ We created to python files one for data wrangling and exploratory analysis; and 
 ## Explanatory Analysis
 In this python notebook I analyzed the trends of the variables for San Jose and some interesting findings shared below
 
-### Information about data
+### Information about data 
 The data had 3.8 million rows and 19 columns when downloaded 
 
 Variables:
